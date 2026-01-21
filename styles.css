@@ -1,0 +1,41 @@
+body {
+    font-family: Roboto, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #2e2f42;
+}
+.ilkbuton {
+    font-size: 16px;
+    background-color: #4d5ae5;
+    color: #ffffff;
+    font-family: inherit;
+    line-height: 1.5;
+    cursor: pointer;
+}
+.ilkbuton:hover, .ilkbuton:focus {
+    background-color: #404bbf;
+}
+a:hover, a:focus {
+    color: #404bbf;
+}
+a {
+    text-decoration: none;
+    color: #4d5ae5;
+}
+ul {
+    list-style: none;
+}
+h2 {
+    text-align: center;
+}
+.görselalt {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    color: #2e2f42;
+}
+.görselaltmetin {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #434455;
+}
